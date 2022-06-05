@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alem Tuzlak</h1>
 <h3 align="center">A passionate frontend developer from Bosnia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alemtuzlak&label=Profile%20views&color=0e75b6&style=flat" alt="alemtuzlak" /> </p>
-
 - 🔭 I’m currently working on [react-igniter](https://github.com/AlemTuzlak/react-igniter)
 
 - 🌱 I’m currently learning **Remix**
