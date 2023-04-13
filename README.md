@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alem Tuzlak</h1>
 <h3 align="center">A passionate frontend developer from Bosnia</h3>
 
-- 🔭 I’m currently working on [react-igniter](https://github.com/AlemTuzlak/react-igniter)
-
-- 🌱 I’m currently learning **Remix**
+- 🔭 I’m currently working on [remix-hook-form](https://github.com/Code-Forge-Net/remix-hook-form)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlemTuzlak](https://github.com/AlemTuzlak)
 
