@@ -14,6 +14,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alem-tuzlak-3b7291132/) 
 ![Twitter Follow](https://img.shields.io/twitter/follow/AlemTuzlak59192)
 
+# Support
+If you wish to support my work you can buy me a coffee:
+https://www.buymeacoffee.com/tzlak975
+
 # 📊GitHub Stats :
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlemTuzlak&theme=radical&hide_border=false)<br/> 
