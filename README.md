@@ -19,11 +19,11 @@
 
 # :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💯 [Creating a sliding box login with Remix, Tailwind and Shadcn.](https://alemtuzlak.hashnode.dev/creating-a-sliding-box-login-with-remix-tailwind-and-shadcn)
- - 🚀 [Storing/consuming custom state before/after sending a user to third party services in Remix](https://alemtuzlak.hashnode.dev/storingconsuming-custom-state-beforeafter-sending-a-user-to-third-party-services-in-remix)
+ - 💯 [Why I can&#39;t love Bun v1.0 🧄](https://alemtuzlak.hashnode.dev/why-i-cant-love-bun)
+ - 🚀 [Creating a sliding box login with Remix, Tailwind and Shadcn.](https://alemtuzlak.hashnode.dev/creating-a-sliding-box-login-with-remix-tailwind-and-shadcn)
+ - 🔥 [Storing/consuming custom state before/after sending a user to third party services in Remix](https://alemtuzlak.hashnode.dev/storingconsuming-custom-state-beforeafter-sending-a-user-to-third-party-services-in-remix)
  - 🔥 [Using typescript generics to get typed Select/Combobox component with downshift](https://alemtuzlak.hashnode.dev/using-typescript-generics-to-get-typed-selectcombobox-component-with-downshift)
- - 🔥 [Raining down confetti on redirects in Remix](https://alemtuzlak.hashnode.dev/confetti-on-redirects-in-remix)
- - 💫 [Handling type-safe toast notifications with zod in Remix applications](https://alemtuzlak.hashnode.dev/handling-toasts-in-remix)<!-- BLOGPOSTS:END -->
+ - 💫 [Raining down confetti on redirects in Remix](https://alemtuzlak.hashnode.dev/confetti-on-redirects-in-remix)<!-- BLOGPOSTS:END -->
 
 # 📊GitHub Stats :
  
