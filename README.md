@@ -19,11 +19,11 @@
 
 # :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💯 [Why I can&#39;t love Bun v1.0 🧄](https://alemtuzlak.hashnode.dev/why-i-cant-love-bun)
- - 🚀 [Creating a sliding box login with Remix, Tailwind and Shadcn.](https://alemtuzlak.hashnode.dev/creating-a-sliding-box-login-with-remix-tailwind-and-shadcn)
- - 🔥 [Storing/consuming custom state before/after sending a user to third party services in Remix](https://alemtuzlak.hashnode.dev/storingconsuming-custom-state-beforeafter-sending-a-user-to-third-party-services-in-remix)
- - 🔥 [Using typescript generics to get typed Select/Combobox component with downshift](https://alemtuzlak.hashnode.dev/using-typescript-generics-to-get-typed-selectcombobox-component-with-downshift)
- - 💫 [Raining down confetti on redirects in Remix](https://alemtuzlak.hashnode.dev/confetti-on-redirects-in-remix)<!-- BLOGPOSTS:END -->
+ - 💯 [The Challenges of Loving Bun v1.0 🧄](https://alemtuzlak.hashnode.dev/why-i-cant-love-bun)
+ - 🚀 [How to Make a Sliding Login Box with Remix, Tailwind, and Shadcn](https://alemtuzlak.hashnode.dev/how-to-make-a-sliding-login-box-with-remix-tailwind-and-shadcn)
+ - 🔥 [Saving and using custom data before and after redirecting users to external services with Remix](https://alemtuzlak.hashnode.dev/saving-and-using-custom-data-before-and-after-redirecting-users-to-external-services-with-remix)
+ - 🔥 [Creating Typed Select/Combobox Components with Downshift and TypeScript Generics](https://alemtuzlak.hashnode.dev/creating-typed-selectcombobox-components-with-downshift-and-typescript-generics)
+ - 💫 [Effortlessly Add Confetti to Redirects in Remix: Step-by-Step](https://alemtuzlak.hashnode.dev/confetti-on-redirects-in-remix)<!-- BLOGPOSTS:END -->
 
 # 📊GitHub Stats :
  
