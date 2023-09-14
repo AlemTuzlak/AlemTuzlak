@@ -19,11 +19,11 @@
 
 # :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💯 [The Challenges of Loving Bun v1.0 🧄](https://alemtuzlak.hashnode.dev/why-i-cant-love-bun)
- - 🚀 [How to Make a Sliding Login Box with Remix, Tailwind, and Shadcn](https://alemtuzlak.hashnode.dev/how-to-make-a-sliding-login-box-with-remix-tailwind-and-shadcn)
+ - 💯 [Utilizing Global Types for Thoroughly Typed Remix Applications](https://alemtuzlak.hashnode.dev/utilizing-global-types-for-thoroughly-typed-remix-applications)
+ - 🚀 [The Challenges of Loving Bun v1.0 🧄](https://alemtuzlak.hashnode.dev/why-i-cant-love-bun)
+ - 🔥 [How to Make a Sliding Login Box with Remix, Tailwind, and Shadcn](https://alemtuzlak.hashnode.dev/how-to-make-a-sliding-login-box-with-remix-tailwind-and-shadcn)
  - 🔥 [Saving and using custom data before and after redirecting users to external services with Remix](https://alemtuzlak.hashnode.dev/saving-and-using-custom-data-before-and-after-redirecting-users-to-external-services-with-remix)
- - 🔥 [Creating Typed Select/Combobox Components with Downshift and TypeScript Generics](https://alemtuzlak.hashnode.dev/creating-typed-selectcombobox-components-with-downshift-and-typescript-generics)
- - 💫 [Effortlessly Add Confetti to Redirects in Remix: Step-by-Step](https://alemtuzlak.hashnode.dev/confetti-on-redirects-in-remix)<!-- BLOGPOSTS:END -->
+ - 💫 [Creating Typed Select/Combobox Components with Downshift and TypeScript Generics](https://alemtuzlak.hashnode.dev/creating-typed-selectcombobox-components-with-downshift-and-typescript-generics)<!-- BLOGPOSTS:END -->
 
 # 📊GitHub Stats :
  
