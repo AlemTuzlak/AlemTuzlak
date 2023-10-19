@@ -19,11 +19,11 @@
 
 # :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💯 [Why I love Remix](https://alemtuzlak.hashnode.dev/why-i-love-remix)
- - 🚀 [Utilizing Global Types for Thoroughly Typed Remix Applications](https://alemtuzlak.hashnode.dev/utilizing-global-types-for-thoroughly-typed-remix-applications)
+ - 💯 [Deep dive into package.json scripts](https://alemtuzlak.hashnode.dev/deep-dive-into-packagejson-scripts)
+ - 🚀 [Why I love Remix](https://alemtuzlak.hashnode.dev/why-i-love-remix)
+ - 🔥 [Utilizing Global Types for Thoroughly Typed Remix Applications](https://alemtuzlak.hashnode.dev/utilizing-global-types-for-thoroughly-typed-remix-applications)
  - 🔥 [The Challenges of Loving Bun v1.0 🧄](https://alemtuzlak.hashnode.dev/why-i-cant-love-bun)
- - 🔥 [How to Make a Sliding Login Box with Remix, Tailwind, and Shadcn](https://alemtuzlak.hashnode.dev/how-to-make-a-sliding-login-box-with-remix-tailwind-and-shadcn)
- - 💫 [Saving and using custom data before and after redirecting users to external services with Remix](https://alemtuzlak.hashnode.dev/saving-and-using-custom-data-before-and-after-redirecting-users-to-external-services-with-remix)<!-- BLOGPOSTS:END -->
+ - 💫 [How to Make a Sliding Login Box with Remix, Tailwind, and Shadcn](https://alemtuzlak.hashnode.dev/how-to-make-a-sliding-login-box-with-remix-tailwind-and-shadcn)<!-- BLOGPOSTS:END -->
 
 # 📊GitHub Stats :
  
