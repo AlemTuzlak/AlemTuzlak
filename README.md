@@ -19,11 +19,11 @@
 
 # :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💯 [Reusable Progress component in Remix or React Router with tailwind](https://alemtuzlak.hashnode.dev/reusable-progress-component-in-remix-or-react-router-with-tailwind)
- - 🚀 [Deep dive into package.json scripts](https://alemtuzlak.hashnode.dev/deep-dive-into-packagejson-scripts)
+ - 💯 [Integration testing Remix apps with Vitest, Typescript &amp; Docker](https://alemtuzlak.hashnode.dev/integration-testing-remix-apps-with-vitest-typescript-docker)
+ - 🚀 [Reusable Progress component in Remix or React Router with tailwind](https://alemtuzlak.hashnode.dev/reusable-progress-component-in-remix-or-react-router-with-tailwind)
+ - 🔥 [Deep dive into package.json scripts](https://alemtuzlak.hashnode.dev/deep-dive-into-packagejson-scripts)
  - 🔥 [Why I love Remix](https://alemtuzlak.hashnode.dev/why-i-love-remix)
- - 🔥 [Utilizing Global Types for Thoroughly Typed Remix Applications](https://alemtuzlak.hashnode.dev/utilizing-global-types-for-thoroughly-typed-remix-applications)
- - 💫 [The Challenges of Loving Bun v1.0 🧄](https://alemtuzlak.hashnode.dev/why-i-cant-love-bun)<!-- BLOGPOSTS:END -->
+ - 💫 [Utilizing Global Types for Thoroughly Typed Remix Applications](https://alemtuzlak.hashnode.dev/utilizing-global-types-for-thoroughly-typed-remix-applications)<!-- BLOGPOSTS:END -->
 
 # 📊GitHub Stats :
  
