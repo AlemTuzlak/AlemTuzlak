@@ -19,11 +19,11 @@
 
 # :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💯 [Typed server-safe DOM event listeners in Remix](https://alemtuzlak.hashnode.dev/typed-server-safe-dom-event-listeners-in-remix)
- - 🚀 [Exploring Remix with Vite](https://alemtuzlak.hashnode.dev/exploring-remix-with-vite)
+ - 💯 [Stripe Integration for Remix](https://alemtuzlak.hashnode.dev/stripe-integration-for-remix)
+ - 🚀 [Typed server-safe DOM event listeners in Remix](https://alemtuzlak.hashnode.dev/typed-server-safe-dom-event-listeners-in-remix)
+ - 🔥 [Exploring Remix with Vite](https://alemtuzlak.hashnode.dev/exploring-remix-with-vite)
  - 🔥 [Uploading images to Supabase with Remix](https://alemtuzlak.hashnode.dev/uploading-images-to-supabase-with-remix)
- - 🔥 [Integration testing Remix apps with Vitest, Typescript &amp; Docker](https://alemtuzlak.hashnode.dev/integration-testing-remix-apps-with-vitest-typescript-docker)
- - 💫 [Reusable Progress component in Remix or React Router with tailwind](https://alemtuzlak.hashnode.dev/reusable-progress-component-in-remix-or-react-router-with-tailwind)<!-- BLOGPOSTS:END -->
+ - 💫 [Integration testing Remix apps with Vitest, Typescript &amp; Docker](https://alemtuzlak.hashnode.dev/integration-testing-remix-apps-with-vitest-typescript-docker)<!-- BLOGPOSTS:END -->
 
 # 📊GitHub Stats :
  
