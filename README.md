@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alem Tuzlak</h1>
-<h3 align="center">A passionate Full-stack Software Engineer from Bosnia and Herzegovina </h3>
+<h3 align="center">A passionate Open-Source contributor from Bosnia and Herzegovina. I create Remix content and I help you have a better Developer Experience with Remix.run </h3>
  
 - 🔭 I’m currently working on [Remix Development Tools](https://github.com/Code-Forge-Net/Remix-Dev-Tools) [remix-hook-form](https://github.com/Code-Forge-Net/remix-hook-form) and [Remix Forge](https://github.com/Code-Forge-Net/Remix-Forge)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlemTuzlak](https://github.com/AlemTuzlak) and [https://github.com/Code-Forge-Net](https://github.com/Code-Forge-Net)
 
 - 📫 How to reach me **t.zlak97@gmail.com**
+
+# YouTube
+I do a lot of YouTube content on Remix.run. You can find it here:
+https://www.youtube.com/@alemtuzlak
 
 # 💻Tech Stack
 ![Remix](https://img.shields.io/badge/Remix-212121?style=plastic&logo=remix&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)    
