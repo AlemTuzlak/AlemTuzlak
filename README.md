@@ -16,7 +16,7 @@ https://www.youtube.com/@alemtuzlak
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alem-tuzlak-3b7291132/) 
-![Twitter Follow](https://img.shields.io/twitter/follow/AlemTuzlak59192)
+![Twitter Follow](https://img.shields.io/twitter/follow/AlemTuzlak)
 
 # Support
 <a href="https://www.buymeacoffee.com/tzlak975" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
