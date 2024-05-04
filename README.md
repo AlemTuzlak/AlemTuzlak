@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alem Tuzlak</h1>
 <h3 align="center">A passionate Open-Source contributor from Bosnia and Herzegovina. I create Remix content and I help you have a better Developer Experience with Remix.run </h3>
  
-- 🔭 I’m currently working on [Remix Development Tools](https://github.com/Code-Forge-Net/Remix-Dev-Tools) [remix-hook-form](https://github.com/Code-Forge-Net/remix-hook-form) and [Remix Forge](https://github.com/Code-Forge-Net/Remix-Forge)
+- 🔭 I’m currently working on [Remix Development Tools](https://github.com/forge42dev/Remix-Dev-Tools) [remix-hook-form](https://github.com/forge42dev/remix-hook-form) and [Remix Forge](https://github.com/forge42dev/Remix-Forge)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AlemTuzlak](https://github.com/AlemTuzlak) and [https://github.com/Code-Forge-Net](https://github.com/Code-Forge-Net)
+- 👨‍💻 All of my projects are available at [https://github.com/AlemTuzlak](https://github.com/AlemTuzlak) and [https://github.com/forge42dev](https://github.com/forge42dev)
 
 - 📫 How to reach me **t.zlak97@gmail.com**
 
