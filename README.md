@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlemTuzlak](https://github.com/AlemTuzlak) and [https://github.com/forge42dev](https://github.com/forge42dev)
 
-- 📫 How to reach me **t.zlak97@gmail.com**
+- 📫 How to reach me **alem@forge42.dev**
 
 # YouTube
 I do a lot of YouTube content on Remix.run. You can find it here:
