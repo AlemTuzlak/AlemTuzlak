@@ -23,11 +23,11 @@ https://www.youtube.com/@alemtuzlak
 
 # :books: Recent Blog Posts
 <!-- BLOGPOSTS:START -->
- - 💯 [Death and open-source](https://alemtuzlak.hashnode.dev/death-and-open-source)
- - 🚀 [Migrating a v1 CJS Remix project to Remix Vite &lpar;ESM&rpar;](https://alemtuzlak.hashnode.dev/migrating-a-v1-cjs-remix-project-to-remix-vite-esm)
+ - 💯 [How a not so &quot;rubber&quot; duck changed my life](https://alemtuzlak.hashnode.dev/how-a-not-so-rubber-duck-changed-my-life)
+ - 🚀 [Death and open-source](https://alemtuzlak.hashnode.dev/death-and-open-source)
+ - 🔥 [Migrating a v1 CJS Remix project to Remix Vite &lpar;ESM&rpar;](https://alemtuzlak.hashnode.dev/migrating-a-v1-cjs-remix-project-to-remix-vite-esm)
  - 🔥 [Stripe Integration for Remix](https://alemtuzlak.hashnode.dev/stripe-integration-for-remix)
- - 🔥 [Typed server-safe DOM event listeners in Remix](https://alemtuzlak.hashnode.dev/typed-server-safe-dom-event-listeners-in-remix)
- - 💫 [Exploring Remix with Vite](https://alemtuzlak.hashnode.dev/exploring-remix-with-vite)<!-- BLOGPOSTS:END -->
+ - 💫 [Typed server-safe DOM event listeners in Remix](https://alemtuzlak.hashnode.dev/typed-server-safe-dom-event-listeners-in-remix)<!-- BLOGPOSTS:END -->
 
 # 📊GitHub Stats :
  
