@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alem Tuzlak</h1>
-<h3 align="center">A passionate Open-Source contributor from Bosnia and Herzegovina. I create Remix (react router v7) content and I help you have a better Developer Experience with it </h3>
+<h3 align="center">A passionate Open-Source contributor from Bosnia and Herzegovina. I contribute to whatever I can and I have a crippling addiction to creating OSS tooling.</h3>
  
-- 🔭 I’m currently working on [Remix Development Tools](https://github.com/forge42dev/Remix-Dev-Tools) [remix-hook-form](https://github.com/forge42dev/remix-hook-form) and [Remix Forge](https://github.com/forge42dev/Remix-Forge)
+- 🔭 I’m currently working on [@tanstack/devtools](https://github.com/TanStack/devtools)  
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlemTuzlak](https://github.com/AlemTuzlak) and [https://github.com/forge42dev](https://github.com/forge42dev)
 
 - 📫 How to reach me **alem@forge42.dev**
 
 # YouTube
-I do a lot of YouTube content on Remix.run. You can find it here:
+I do a lot of YouTube content on react-router / remix, OSS and a lot of other things! You can find it here:
 https://www.youtube.com/@alemtuzlak
  
 
