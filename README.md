@@ -2,7 +2,7 @@
 <h2 align="center"> Tanstack maintainer, YouTuber, Blogger, Educator, and a lot of other things..</h2>
 <h3 align="center">I'm a passionate Open-Source contributor from Bosnia and Herzegovina. I contribute to whatever I can and I have a crippling addiction to creating OSS tooling.</h3>
  
-- 🔭 I’m currently working on [@tanstack/devtools](https://github.com/TanStack/devtools)  
+- 🔭 I’m currently working on [@tanstack/ai](https://github.com/TanStack/ai) and  [@tanstack/devtools](https://github.com/TanStack/devtools)  
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlemTuzlak](https://github.com/AlemTuzlak) and [https://github.com/forge42dev](https://github.com/forge42dev)
 
