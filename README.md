@@ -46,6 +46,33 @@ https://www.youtube.com/@alemtuzlak
 ## 🎬 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=xdCi-J1QYLY">
+        <img src="https://img.youtube.com/vi/xdCi-J1QYLY/mqdefault.jpg" width="220" alt="Structured Outputs with TanStack AI" />
+      </a>
+      <br />
+      <sub><b>Structured Outputs with TanStack AI</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=oIuESjgC46M">
+        <img src="https://img.youtube.com/vi/oIuESjgC46M/mqdefault.jpg" width="220" alt="I Automated My Entire YouTube Workflow with TanStac…" />
+      </a>
+      <br />
+      <sub><b>I Automated My Entire YouTube Workflow with TanStac…</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=izSLtDy-zz4">
+        <img src="https://img.youtube.com/vi/izSLtDy-zz4/mqdefault.jpg" width="220" alt="TenStack AI Alpha 2 | Smaller Bundles, Bigger Perfo…" />
+      </a>
+      <br />
+      <sub><b>TenStack AI Alpha 2 | Smaller Bundles, Bigger Perfo…</b></sub>
+    </td>
+  </tr>
+</table>
+
 <!-- YOUTUBE:END -->
 
 
