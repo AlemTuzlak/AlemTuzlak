@@ -109,6 +109,16 @@ If you work with react-router, you may have used one of the open source projects
 ## Latest YouTube videos
 
 <!-- YOUTUBE:START -->
+
+- [![Structured Outputs with TanStack AI](https://img.youtube.com/vi/xdCi-J1QYLY/hqdefault.jpg)](https://www.youtube.com/watch?v=xdCi-J1QYLY)
+  **Structured Outputs with TanStack AI** — 2025-12-24
+
+- [![I Automated My Entire YouTube Workflow with TanStack AI](https://img.youtube.com/vi/oIuESjgC46M/hqdefault.jpg)](https://www.youtube.com/watch?v=oIuESjgC46M)
+  **I Automated My Entire YouTube Workflow with TanStack AI** — 2025-12-23
+
+- [![TenStack AI Alpha 2 \| Smaller Bundles, Bigger Performance and new API's (exclusive look)](https://img.youtube.com/vi/izSLtDy-zz4/hqdefault.jpg)](https://www.youtube.com/watch?v=izSLtDy-zz4)
+  **TenStack AI Alpha 2 \| Smaller Bundles, Bigger Performance and new API's (exclusive look)** — 2025-12-22
+
 <!-- YOUTUBE:END -->
 
 # 📊GitHub Stats :
