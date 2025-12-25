@@ -16,8 +16,6 @@
   <a href="mailto:alem@forge42.dev"><b>✉️ Contact</b></a>
 </p>
 
----
-
 ## 🚀 What I Do
 
 - 🧠 **Maintainer @ TanStack**  
@@ -32,7 +30,6 @@
 - 🌍 **Based in Bosnia and Herzegovina**  
   Shipping global open-source from a place people underestimate 😉
 
----
 
 ## 📺 YouTube (Highly Practical Dev Content)
 
@@ -46,7 +43,11 @@ I publish **hands-on videos** about:
 👉 **Subscribe here:**  
 https://www.youtube.com/@alemtuzlak
 
----
+## 🎬 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 
 ## 🧩 Flagship Open-Source Projects
 
@@ -101,7 +102,6 @@ If you work with **React Router**, you’ve probably seen or used one of these:
 - https://github.com/AlemTuzlak  
 - https://github.com/forge42dev  
 
----
 
 ## 📝 Recent Writing
 
@@ -114,15 +114,6 @@ I write about open-source, engineering mindset, and real production lessons:
  - 🔥 [Stripe Integration for Remix](https://alemtuzlak.hashnode.dev/stripe-integration-for-remix)
  - 💫 [Typed server-safe DOM event listeners in Remix](https://alemtuzlak.hashnode.dev/typed-server-safe-dom-event-listeners-in-remix)
 <!-- BLOGPOSTS:END -->
-
----
-
-## 🎬 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
----
 
 ## 🤝 Work With Me / Support OSS
 
