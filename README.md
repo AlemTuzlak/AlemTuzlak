@@ -48,29 +48,83 @@ https://www.youtube.com/@alemtuzlak
 <!-- YOUTUBE:START -->
 
 <table>
-  <tr>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=xdCi-J1QYLY">
-        <img src="https://img.youtube.com/vi/xdCi-J1QYLY/mqdefault.jpg" width="220" alt="Structured Outputs with TanStack AI" />
-      </a>
-      <br />
-      <sub><b>Structured Outputs with TanStack AI</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=oIuESjgC46M">
-        <img src="https://img.youtube.com/vi/oIuESjgC46M/mqdefault.jpg" width="220" alt="I Automated My Entire YouTube Workflow with TanStac…" />
-      </a>
-      <br />
-      <sub><b>I Automated My Entire YouTube Workflow with TanStac…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=izSLtDy-zz4">
-        <img src="https://img.youtube.com/vi/izSLtDy-zz4/mqdefault.jpg" width="220" alt="TenStack AI Alpha 2 | Smaller Bundles, Bigger Perfo…" />
-      </a>
-      <br />
-      <sub><b>TenStack AI Alpha 2 | Smaller Bundles, Bigger Perfo…</b></sub>
-    </td>
-  </tr>
+	<thead> <tr> <th>Project ⚙️</th> <th>Description 📝</th> <th>Role 🧑‍🏭</th> <th>Stars ⭐</th> </tr> </thead>
+	<tbody>
+			<tr>
+		<td><a href="https://github.com/TanStack/ai">@tanstack/ai</a></td>
+		<td>Type-safe, framework-agnostic AI tooling for modern web apps.</td>
+		<td><b>Co-creator & lead maintainer</b></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/TanStack/ai" /></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/TanStack/devtools">@tanstack/devtools</a></td>
+		<td>Developer tools powering the TanStack ecosystem.</td>
+		<td><b>Creator & lead maintainer</b></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/TanStack/devtools" /></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/forge-42/react-router-devtools">react-router-devtools</a></td>
+		<td>Debug React Router applications like never before.</td>
+		<td>Creator & maintainer</td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/forge-42/react-router-devtools" /></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/forge-42/remix-hook-form">remix-hook-form</a></td>
+		<td>Typed react-hook-form integration for React Router apps.</td>
+		<td>Creator & maintainer</td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/forge-42/remix-hook-form" /></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/forge-42/remix-toast">remix-toast</a></td>
+		<td>Server-side toast notifications for React Router v7.</td>
+		<td>Creator & maintainer</td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/forge-42/remix-toast" /></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/forge-42/remix-client-cache">remix-client-cache</a></td>
+		<td>Client-side caching utilities for modern React Router apps.</td>
+		<td>Creator & maintainer</td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/forge-42/remix-client-cache" /></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/forge-42/vite-plugin-icons-spritesheet">vite-plugin-icons-spritesheet</a></td>
+		<td>Vite plugin for type-safe SVG icon spritesheets.</td>
+		<td>Creator & maintainer</td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/forge-42/vite-plugin-icons-spritesheet" /></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/forge-42/base-stack">base-stack</a></td>
+		<td>Opinionated React Router v7 starter, done the right way.</td>
+		<td>Creator & maintainer</td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/forge-42/base-stack" /></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/forge-42/open-source-stack">open-source-stack</a></td>
+		<td>Production-ready template for building modern open-source software.</td>
+		<td>Creator & maintainer</td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/forge-42/open-source-stack" /></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/forge-42/storyblok-generator">storyblok-generator</a></td>
+		<td>Automated type-safe Storyblok component pipeline for Vite.</td>
+		<td>Creator & maintainer</td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/forge-42/storyblok-generator" /></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/forge-42/remix-forge">remix-forge</a></td>
+		<td>VS Code extension for efficient Remix development.</td>
+		<td>Creator & maintainer</td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/forge-42/remix-forge" /></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/forge-42/seo-tools">@forge42/seo-tools</a></td>
+		<td>SEO utilities for modern React Router v7 applications.</td>
+		<td>Creator & maintainer</td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/forge-42/seo-tools" /></td>
+	</tr>
+	</tbody>
+ 
+
 </table>
 
 <!-- YOUTUBE:END -->
