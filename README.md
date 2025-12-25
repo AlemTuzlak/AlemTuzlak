@@ -110,14 +110,31 @@ If you work with react-router, you may have used one of the open source projects
 
 <!-- YOUTUBE:START -->
 
-- [![Structured Outputs with TanStack AI](https://img.youtube.com/vi/xdCi-J1QYLY/hqdefault.jpg)](https://www.youtube.com/watch?v=xdCi-J1QYLY)
-  **Structured Outputs with TanStack AI** — 2025-12-24
-
-- [![I Automated My Entire YouTube Workflow with TanStack AI](https://img.youtube.com/vi/oIuESjgC46M/hqdefault.jpg)](https://www.youtube.com/watch?v=oIuESjgC46M)
-  **I Automated My Entire YouTube Workflow with TanStack AI** — 2025-12-23
-
-- [![TenStack AI Alpha 2 \| Smaller Bundles, Bigger Performance and new API's (exclusive look)](https://img.youtube.com/vi/izSLtDy-zz4/hqdefault.jpg)](https://www.youtube.com/watch?v=izSLtDy-zz4)
-  **TenStack AI Alpha 2 \| Smaller Bundles, Bigger Performance and new API's (exclusive look)** — 2025-12-22
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=xdCi-J1QYLY">
+        <img src="https://img.youtube.com/vi/xdCi-J1QYLY/mqdefault.jpg" width="220" alt="Structured Outputs with TanStack AI" />
+      </a>
+      <br />
+      <sub><b>Structured Outputs with TanStack AI</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=oIuESjgC46M">
+        <img src="https://img.youtube.com/vi/oIuESjgC46M/mqdefault.jpg" width="220" alt="I Automated My Entire YouTube Workflow with TanStac…" />
+      </a>
+      <br />
+      <sub><b>I Automated My Entire YouTube Workflow with TanStac…</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=izSLtDy-zz4">
+        <img src="https://img.youtube.com/vi/izSLtDy-zz4/mqdefault.jpg" width="220" alt="TenStack AI Alpha 2 | Smaller Bundles, Bigger Perfo…" />
+      </a>
+      <br />
+      <sub><b>TenStack AI Alpha 2 | Smaller Bundles, Bigger Perfo…</b></sub>
+    </td>
+  </tr>
+</table>
 
 <!-- YOUTUBE:END -->
 
