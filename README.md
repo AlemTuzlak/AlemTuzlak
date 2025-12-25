@@ -47,8 +47,18 @@ https://www.youtube.com/@alemtuzlak
 
 <!-- YOUTUBE:START -->
 
-<table>
-	<thead> <tr> <th>Project ⚙️</th> <th>Description 📝</th> <th>Role 🧑‍🏭</th> <th>Stars ⭐</th> </tr> </thead>
+<!-- YOUTUBE:END -->
+
+
+
+
+## 🧩 Flagship Open-Source Projects
+
+If you work with **React Router**, you’ve probably seen or used one of these:
+
+<!-- markdownlint-disable sentences-per-line -->
+<table width="100%">
+<thead> <tr> <th>Project ⚙️</th> <th>Description 📝</th> <th>Role 🧑‍🏭</th> <th>Stars ⭐</th> </tr> </thead>
 	<tbody>
 			<tr>
 		<td><a href="https://github.com/TanStack/ai">@tanstack/ai</a></td>
@@ -122,59 +132,6 @@ https://www.youtube.com/@alemtuzlak
 		<td>Creator & maintainer</td>
 		<td><img alt="Stars" src="https://img.shields.io/github/stars/forge-42/seo-tools" /></td>
 	</tr>
-	</tbody>
- 
-
-</table>
-
-<!-- YOUTUBE:END -->
-
-
-## 🧩 Flagship Open-Source Projects
-
-If you work with **React Router**, you’ve probably seen or used one of these:
-
-<!-- markdownlint-disable sentences-per-line -->
-<table width="100%">
-	<thead>
-		<tr>
-			<th>Project ⚙️</th>
-			<th>Description 📝</th>
-			<th>Role 🧑‍🏭</th>
-			<th>Stars ⭐</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td><a href="https://github.com/forge-42/react-router-devtools">react-router-devtools</a></td>
-			<td>Debug React Router apps like never before.</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars" src="https://img.shields.io/github/stars/forge-42/react-router-devtools" /></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/forge-42/remix-hook-form">remix-hook-form</a></td>
-			<td>Typed react-hook-form integration for React Router.</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars" src="https://img.shields.io/github/stars/forge-42/remix-hook-form" /></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/forge-42/remix-toast">remix-toast</a></td>
-			<td>Server-side toast notifications for React Router v7.</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars" src="https://img.shields.io/github/stars/forge-42/remix-toast" /></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/forge-42/remix-client-cache">remix-client-cache</a></td>
-			<td>Client-side caching for modern React Router apps.</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars" src="https://img.shields.io/github/stars/forge-42/remix-client-cache" /></td>
-		</tr>
-		<tr>
-			<td><a href="https://github.com/forge-42/base-stack">base-stack</a></td>
-			<td>Opinionated React Router v7 starter — done properly.</td>
-			<td>Creator & maintainer</td>
-			<td><img alt="Stars" src="https://img.shields.io/github/stars/forge-42/base-stack" /></td>
-		</tr>
 	</tbody>
 </table>
 <!-- markdownlint-enable sentences-per-line -->
