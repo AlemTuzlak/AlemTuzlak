@@ -106,6 +106,11 @@ If you work with react-router, you may have used one of the open source projects
  - 🔥 [Stripe Integration for Remix](https://alemtuzlak.hashnode.dev/stripe-integration-for-remix)
  - 💫 [Typed server-safe DOM event listeners in Remix](https://alemtuzlak.hashnode.dev/typed-server-safe-dom-event-listeners-in-remix)<!-- BLOGPOSTS:END -->
 
+## Latest YouTube videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 # 📊GitHub Stats :
  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlemTuzlak&theme=radical&hide_border=false)<br/> 
