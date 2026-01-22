@@ -50,6 +50,13 @@ https://www.youtube.com/@alemtuzlak
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=6aIgMAOHXTk">
+        <img src="https://img.youtube.com/vi/6aIgMAOHXTk/mqdefault.jpg" width="220" alt="From Zero to TanStack Maintainer | My Journey" />
+      </a>
+      <br />
+      <sub><b>From Zero to TanStack Maintainer | My Journey</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=xdCi-J1QYLY">
         <img src="https://img.youtube.com/vi/xdCi-J1QYLY/mqdefault.jpg" width="220" alt="Structured Outputs with TanStack AI" />
       </a>
@@ -62,13 +69,6 @@ https://www.youtube.com/@alemtuzlak
       </a>
       <br />
       <sub><b>I Automated My Entire YouTube Workflow with TanStac…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=izSLtDy-zz4">
-        <img src="https://img.youtube.com/vi/izSLtDy-zz4/mqdefault.jpg" width="220" alt="TenStack AI Alpha 2 | Smaller Bundles, Bigger Perfo…" />
-      </a>
-      <br />
-      <sub><b>TenStack AI Alpha 2 | Smaller Bundles, Bigger Perfo…</b></sub>
     </td>
   </tr>
 </table>
