@@ -50,6 +50,13 @@ https://www.youtube.com/@alemtuzlak
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=S5PsrFFPLf0">
+        <img src="https://img.youtube.com/vi/S5PsrFFPLf0/mqdefault.jpg" width="220" alt="AG-UI Protocol: Inside TanStack AI&#39;s New Protocol" />
+      </a>
+      <br />
+      <sub><b>AG-UI Protocol: Inside TanStack AI&#39;s New Protocol</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=9yI5cgFAhTw">
         <img src="https://img.youtube.com/vi/9yI5cgFAhTw/mqdefault.jpg" width="220" alt="TanStack AI Just Got a HUGE Upgrade: Generation Hoo…" />
       </a>
@@ -62,13 +69,6 @@ https://www.youtube.com/@alemtuzlak
       </a>
       <br />
       <sub><b>From Zero to TanStack Maintainer | My Journey</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=xdCi-J1QYLY">
-        <img src="https://img.youtube.com/vi/xdCi-J1QYLY/mqdefault.jpg" width="220" alt="Structured Outputs with TanStack AI" />
-      </a>
-      <br />
-      <sub><b>Structured Outputs with TanStack AI</b></sub>
     </td>
   </tr>
 </table>
