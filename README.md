@@ -50,6 +50,13 @@ https://www.youtube.com/@alemtuzlak
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=kbAbPwx2068">
+        <img src="https://img.youtube.com/vi/kbAbPwx2068/mqdefault.jpg" width="220" alt="How I automated my TanStack AI promotional pipeline!" />
+      </a>
+      <br />
+      <sub><b>How I automated my TanStack AI promotional pipeline!</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=S5PsrFFPLf0">
         <img src="https://img.youtube.com/vi/S5PsrFFPLf0/mqdefault.jpg" width="220" alt="AG-UI Protocol: Inside TanStack AI&#39;s New Protocol" />
       </a>
@@ -62,13 +69,6 @@ https://www.youtube.com/@alemtuzlak
       </a>
       <br />
       <sub><b>TanStack AI Just Got a HUGE Upgrade: Generation Hoo…</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=6aIgMAOHXTk">
-        <img src="https://img.youtube.com/vi/6aIgMAOHXTk/mqdefault.jpg" width="220" alt="From Zero to TanStack Maintainer | My Journey" />
-      </a>
-      <br />
-      <sub><b>From Zero to TanStack Maintainer | My Journey</b></sub>
     </td>
   </tr>
 </table>
