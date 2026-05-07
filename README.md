@@ -50,6 +50,13 @@ https://www.youtube.com/@alemtuzlak
 <table>
   <tr>
     <td align="center" valign="top" width="33%">
+      <a href="https://www.youtube.com/watch?v=iP2tM0ozWas">
+        <img src="https://img.youtube.com/vi/iP2tM0ozWas/mqdefault.jpg" width="220" alt="CopilotKit Just Raised $27M - Here&#39;s What it is!" />
+      </a>
+      <br />
+      <sub><b>CopilotKit Just Raised $27M - Here&#39;s What it is!</b></sub>
+    </td>
+    <td align="center" valign="top" width="33%">
       <a href="https://www.youtube.com/watch?v=kbAbPwx2068">
         <img src="https://img.youtube.com/vi/kbAbPwx2068/mqdefault.jpg" width="220" alt="How I automated my TanStack AI promotional pipeline!" />
       </a>
@@ -62,13 +69,6 @@ https://www.youtube.com/@alemtuzlak
       </a>
       <br />
       <sub><b>AG-UI Protocol: Inside TanStack AI&#39;s New Protocol</b></sub>
-    </td>
-    <td align="center" valign="top" width="33%">
-      <a href="https://www.youtube.com/watch?v=9yI5cgFAhTw">
-        <img src="https://img.youtube.com/vi/9yI5cgFAhTw/mqdefault.jpg" width="220" alt="TanStack AI Just Got a HUGE Upgrade: Generation Hoo…" />
-      </a>
-      <br />
-      <sub><b>TanStack AI Just Got a HUGE Upgrade: Generation Hoo…</b></sub>
     </td>
   </tr>
 </table>
